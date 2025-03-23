@@ -47,3 +47,38 @@ matplotlib
 seaborn
 
 scikit-learn
+
+🧠 Models Used
+
+Logistic Regression
+
+K-Nearest Neighbors (KNN)
+
+Random Forest Classifier
+
+📈 Evaluation Metrics
+
+Accuracy
+
+Precision
+
+Recall
+
+F1 Score
+
+Confusion Matrix
+
+ROC Curve and AUC Score
+
+📌 Key Insights
+
+Logistic Regression and Random Forest outperformed KNN in accuracy and F1 score.
+
+Feature importance was interpreted using model coefficients and visualizations.
+
+📚 Acknowledgments
+
+UCI Machine Learning Repository
+
+Scikit-learn Documentation
+
